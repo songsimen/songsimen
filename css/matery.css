@@ -28,9 +28,9 @@
 }
 
 body {
-    background-color: #eaeaea;
+    background-color: #e7e5fe;
     margin: 0;
-    color: #34495e;
+    color: #a295fe;
 }
 
 h1 {
@@ -923,7 +923,8 @@ article .article-tags .chip {
 }
 
 #artDetail .article-card-content {
-    padding: 0 15px 20px 18px;
+    # padding: 0px 0 0 0;
+	text-align:center
 }
 
 @media only screen and (max-width: 601px) {
@@ -989,7 +990,7 @@ article .article-tags .chip {
 }
 
 #articleContent img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
     cursor: pointer;
 }
@@ -1741,11 +1742,11 @@ footer .copy-right {
 }
 
 .img-shadow {
-    box-shadow: 0 5px 25px 0 rgba(0,0,0,.2), 0 10px 30px -11px rgba(0,0,0,.6)
+    # box-shadow: 0 5px 25px 0 rgba(0,0,0,.2), 0 10px 30px -11px rgba(0,0,0,.6)
 }
 
 .img-margin {
-    margin: 25px auto 10px auto;
+   # margin: 25px auto 10px auto;
 }
 
 .caption {
