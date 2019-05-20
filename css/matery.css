@@ -163,7 +163,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #e9e7fe 0%, #a295fe 100%);
+    background-image: linear-gradient(to right, #fff 0%, #fff 100%);
 }
 
 .text-color {
@@ -171,7 +171,7 @@ mark {
 }
 
 .white-color {
-    color: #fff;
+    color: #666666;
 }
 
 .progress-bar {
@@ -1635,7 +1635,7 @@ footer a {
 }
 
 footer .copy-right {
-    color: #dbdbdb;
+    color: #666666;
 }
 
 /*搜索层样式*/
